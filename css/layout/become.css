@@ -1,0 +1,55 @@
+#become {
+    padding-top: 180px;
+    background-color: #1e252b;
+    padding-bottom: 150px;
+}
+
+.become-cards {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.become-cards h1 {
+    color: #FFFFFFE5;
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.become-cards p {
+    color: #FFFFFF8C;
+    font-size: 18px;
+    max-width: 427px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.become-form{
+        max-width: 549px;
+        width: 100%;
+        margin: 0 auto;
+        background-color: #283036;
+        height: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 15px;
+        border-radius: 15px;
+}
+.become-form button{
+    width: 130px;
+    height: 48px;
+    background-color: #FF6E30;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.become-form input{
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+}
