@@ -42,7 +42,7 @@ footer{
         gap: 40px;
     }
 }
-@media (max-width:414px) {
+@media (max-width:450px) {
     .fot {
         grid-template-columns: repeat(1, auto);
         gap: 40px;
